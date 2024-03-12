@@ -21,3 +21,5 @@ May 2015. Besides the price, the dataset also includes attributes describing the
 - **Build linear regression model** to evaluate factors that can affect on the house's market price in King County.
 - **Predict the house's market price** in King County.
 
+**_The code of this activity is in file HD1.r_**
+
