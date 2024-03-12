@@ -22,5 +22,6 @@ May 2015. Besides the price, the dataset also includes attributes describing the
 - **Predict the house's market price** in King County.
 
 **_The code of this activity is in file HD1.r_**
+
 **_The code of the second activity is in file HD2.r_**
 
